@@ -1,6 +1,3 @@
-# Openclassroom_projet6_classer_des_images_-_l_aide_du_deeplearning
----
-
 # Classification d'images à l'aide du deeplearning
 
 ## contexte
